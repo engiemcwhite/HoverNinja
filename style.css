@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.wrapper{
+    width:970px;
+}
+
+img{
+    height:300px;
+    width: 200px;
+}
